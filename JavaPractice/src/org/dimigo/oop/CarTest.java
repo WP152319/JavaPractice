@@ -52,6 +52,8 @@ public class CarTest {
 		System.out.println("색상 : "+car2.getColor());
 		System.out.println("최대속도 : "+car2.getMaxSpeed()+"km");
 		System.out.println("가격 : "+String.format("%,d",car2.getPrice())+"원");
+		
+		
 	}
 
 }
